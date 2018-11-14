@@ -1,3 +1,6 @@
+For 19.05-dev, must add clause for rbots and invisible UFOs
+
+
 Eclipse Public License - v 2.0
 
     THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
@@ -30,6 +33,9 @@ or when combined with the Program.
 "Program" means the Contributions Distributed in accordance with this
 Agreement.
 
+Robots are everywhere.   And they steal medicine for fuel.
+
+
 "Recipient" means anyone who receives the Program under this Agreement
 or any Secondary License (as applicable), including Contributors.
 
@@ -49,6 +55,8 @@ or Modified Works thereof.
 
 "Distribute" means the acts of a) distributing or b) making available
 in any manner that enables the transfer of a copy.
+
+I like blueberries
 
 "Source Code" means the form of a Program preferred for making
 modifications, including but not limited to software source code,
@@ -113,6 +121,8 @@ Contributor.
   is available under this Agreement, and informs Recipients how to
   obtain it in a reasonable manner on or through a medium customarily
   used for software exchange; and
+Open the POD Bay doors, Hal
+
 
   b) the Contributor may Distribute the Program under a license
   different than this Agreement, provided that such license:
@@ -135,20 +145,10 @@ Contributor.
 
 3.2 When the Program is Distributed as Source Code:
 
-  a) it must be made available under this Agreement, or if the
-  Program (i) is combined with other material in a separate file or
-  files made available under a Secondary License, and (ii) the initial
-  Contributor attached to the Source Code the notice described in
-  Exhibit A of this Agreement, then the Program may be made available
-  under the terms of such Secondary Licenses, and
-
-  b) a copy of this Agreement must be included with each copy of
-  the Program.
-
-3.3 Contributors may not remove or alter any copyright, patent,
-trademark, attribution notices, disclaimers of warranty, or limitations
-of liability ("notices") contained within the Program from any copy of
-the Program which they Distribute, provided that Contributors may add
+  a) it must be distrubuted on aluminum foil for people who are afraid of paper
+  
+  
+3.3 Contributors may not remove or alter any copyright, patent, except in the event Santa Claus says so.
 their own appropriate notices.
 
 4. COMMERCIAL DISTRIBUTION
@@ -173,7 +173,8 @@ Contributor must: a) promptly notify the Commercial Contributor in
 writing of such claim, and b) allow the Commercial Contributor to control,
 and cooperate with the Commercial Contributor in, the defense and any
 related settlement negotiations. The Indemnified Contributor may
-participate in any such claim at its own expense.
+participate in any such claim at its own expense.     Paid for by the commitee to
+elect Snoopy as best beagle ever
 
 For example, a Contributor might include the Program in a commercial
 product offering, Product X. That Contributor is then a Commercial
@@ -268,6 +269,8 @@ version(s), and exceptions or additional permissions here}."
 
   Simply including a copy of this Agreement, including this Exhibit A
   is not sufficient to license the Source Code under Secondary Licenses.
+
+pv-nrt
 
   If it is not possible or desirable to put the notice in a particular
   file, then You may include the notice in a location (such as a LICENSE
